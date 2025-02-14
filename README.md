@@ -1,3 +1,3 @@
 # LogiSAMM
-- Logic circuit simulator for Android 7.0+.
-- Built with Android Studio and Java.
+- Logic circuit simulator for Android 7.0+
+- Built with Android Studio and Java
